@@ -3,7 +3,7 @@
 <h2 align="center">Front-end developer from Minsk, Belarus</h3>
 <p>Specializing mostly in layouting (HTML5 / CSS3 / SCSS (Sass) / JS / Jquery, semantics, flex / grid, BEM) - middle level. As for frontend framework - it's React.js, I really like it's philosophy.</p>
 
-<div>
+<div style="margin-bottom: 50px">
   <img src="https://user-images.githubusercontent.com/66357864/236781578-8c12c8a3-1a32-4c60-a3c2-f061df148a01.svg" width="32" height="32"/>
   <img src="https://user-images.githubusercontent.com/66357864/236782013-b2ca4918-e331-4c97-82fe-b7619ff5beed.svg" width="32" height="32"/>
   <img src="https://user-images.githubusercontent.com/66357864/236781665-ce0f719d-f585-4c0a-8c29-6664ef3de7aa.svg" width="32" height="32"/>

@@ -17,6 +17,8 @@
   <img src="https://user-images.githubusercontent.com/66357864/236783424-2a45cf39-6df9-4b02-a63a-014ddcfb4c3b.svg" width="32" height="32"/>
 </div>
 
+[![codewars](https://www.codewars.com/users/Pavel05_01/badges/large)](https://www.codewars.com/users/Pavel05_01)
+
 
 <!--
 **pavelfedorov2000/pavelfedorov2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

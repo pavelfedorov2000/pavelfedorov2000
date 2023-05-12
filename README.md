@@ -16,7 +16,7 @@
   <img src="https://user-images.githubusercontent.com/66357864/236783273-8c55078a-eac8-47d4-9d25-782db98b8e86.svg" width="32" height="32"/>
   <img src="https://user-images.githubusercontent.com/66357864/236783424-2a45cf39-6df9-4b02-a63a-014ddcfb4c3b.svg" width="32" height="32"/>
 </div>
-<br/><br/>
+<br>
 [![codewars](https://www.codewars.com/users/Pavel05_01/badges/large)](https://www.codewars.com/users/Pavel05_01)
 
 
